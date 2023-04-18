@@ -1,4 +1,0 @@
-Just for fun!
-
-Name = Om Kisan Pandav
-Class = TY IT A
